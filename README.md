@@ -15,6 +15,9 @@ Create a bag of words from the reviews and train a Gaussian Naive Bayes Classifi
 ###### Results
 
 Accuracy: 0.73
+
 Sensitivity: 0.88
+
 Specificity: 0.57
+
 Precision: 0.68
